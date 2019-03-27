@@ -6,3 +6,7 @@ public class Test {
   }
 
 }
+
+calss MyFrame extends Frame{
+  super("aaa");
+}
